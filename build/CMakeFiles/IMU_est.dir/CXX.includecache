@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jibo1994/Local-Repo/IMU_estimation/src/kalmanPos.cpp
+kalmanPos.h
+/home/jibo1994/Local-Repo/IMU_estimation/src/kalmanPos.h
+iostream
+-
+
+/home/jibo1994/Local-Repo/IMU_estimation/src/kalmanPos.h
+eigen3/Eigen/Dense
+-
+vector
+-
+
+/home/jibo1994/Local-Repo/IMU_estimation/src/main.cpp
+eigen3/Eigen/Dense
+-
+iostream
+-
+string
+-
+fstream
+-
+sstream
+-
+vector
+-
+kalmanPos.h
+/home/jibo1994/Local-Repo/IMU_estimation/src/kalmanPos.h
+
